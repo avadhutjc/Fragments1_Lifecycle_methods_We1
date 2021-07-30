@@ -1,0 +1,12 @@
+com/masai/fragments_1_lifecycle_methods_we1/AnimalFragment.java
+ com.masai.fragments_1_lifecycle_methods_we1.AnimalFragment
+com/masai/fragments_1_lifecycle_methods_we1/AnimalViewHolder.java
+ com.masai.fragments_1_lifecycle_methods_we1.AnimalViewHolder
+com/masai/fragments_1_lifecycle_methods_we1/Animal.java
+ com.masai.fragments_1_lifecycle_methods_we1.Animal
+com/masai/fragments_1_lifecycle_methods_we1/AnimalAdapter.java
+ com.masai.fragments_1_lifecycle_methods_we1.AnimalAdapter
+com/masai/fragments_1_lifecycle_methods_we1/MainActivity.java
+ com.masai.fragments_1_lifecycle_methods_we1.MainActivity
+com/masai/fragments_1_lifecycle_methods_we1/BuildConfig.java
+ com.masai.fragments_1_lifecycle_methods_we1.BuildConfig
